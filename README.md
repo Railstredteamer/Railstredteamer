@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Railstredteamer
-- 👀 I’m interested in API
-- 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on API Security 
+- 🗝 I’m interested in API
+- 🧑🏾‍💻 I’m currently learning Computer science
+- 💞🔐 I’m looking to collaborate on API Security 
 - 📫 How to reach me https://www.linkedin.com/in/railsabam/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: curious 
