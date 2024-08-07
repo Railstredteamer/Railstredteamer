@@ -3,7 +3,6 @@
 - 🧑🏾‍💻 I’m currently learning Computer science
 - 💞🔐 I’m looking to collaborate on API Security 
 - 📫 How to reach me https://www.linkedin.com/in/railsabam/
-- 😄 Pronouns: ...
 - ⚡ Fun fact: curious 
 
 <!---
